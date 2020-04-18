@@ -1,0 +1,12 @@
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/jobScrape.deps.json
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/jobScrape.runtimeconfig.json
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/jobScrape.runtimeconfig.dev.json
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/jobScrape.dll
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/jobScrape.pdb
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.csprojAssemblyReference.cache
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.csproj.CoreCompileInputs.cache
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.AssemblyInfoInputs.cache
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.AssemblyInfo.cs
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.dll
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.pdb
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.genruntimeconfig.cache
