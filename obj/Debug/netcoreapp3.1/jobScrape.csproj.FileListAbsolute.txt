@@ -10,3 +10,5 @@
 /Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.dll
 /Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.pdb
 /Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.genruntimeconfig.cache
+/Users/patrickcandlin/c_sharp/jobScrape/bin/Debug/netcoreapp3.1/HtmlAgilityPack.NetCore.dll
+/Users/patrickcandlin/c_sharp/jobScrape/obj/Debug/netcoreapp3.1/jobScrape.csproj.CopyComplete
